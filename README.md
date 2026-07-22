@@ -1,20 +1,199 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
 
-This contains everything you need to run your app locally.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
 
-View your app in AI Studio: https://ai.studio/apps/00b08ca9-11c1-4e14-90d1-ffb942247fa6
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
 
-## Run Locally
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
 
-**Prerequisites:**  Node.js
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/5y0pdK72/Snapchat-1739981284.jpg" />
+</div>
+
+
